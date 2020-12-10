@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-
+ 
 class App extends Component {
 
 
@@ -55,8 +55,8 @@ class App extends Component {
     )
   }
 }
-//Question// Briefly explain with an example what's the difference between import Something from 'package' VS import {Something} from 'package'
+// //Question// Briefly explain with an example what's the difference between import Something from 'package' VS import {Something} from 'package'
 
-//Answer//we can use both of them but if we use curly braces in main react import line then we don,t need to write extra code 
+// //Answer//we can use both of them but if we use curly braces in main react import line then we don,t need to write extra code 
 
 export default App;
